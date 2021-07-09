@@ -1,0 +1,6 @@
+fastapi[all]
+python-multipart
+python-jose
+passlib
+boto3
+mangum
